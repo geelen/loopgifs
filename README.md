@@ -12,4 +12,6 @@ jspm install
 live-server
 ```
 
+To run in production mode, run `jspm bundle-sfx --minify lib/main` then switch the DEV and PROD scripts on index.html
+
 Happy new year!
