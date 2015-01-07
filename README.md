@@ -1,6 +1,8 @@
 ## LoopGIFs
 
-<iframe width="960" height="720" src="//www.youtube.com/embed/iukBMY4apvI" frameborder="0" allowfullscreen></iframe>
+[![JavaScript in 2015 video](https://img.youtube.com/vi/iukBMY4apvI/hqdefault.jpg)](https://www.youtube.com/watch?v=iukBMY4apvI)
+
+[From the video, JavaScript in 2015](https://www.youtube.com/watch?v=iukBMY4apvI)
 
 To get this example running, check out this repository, and:
 
