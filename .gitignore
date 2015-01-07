@@ -1,1 +1,2 @@
-jspm_packages
+jspm_packages/*
+!jspm_packages/traceur-runtime.js*
